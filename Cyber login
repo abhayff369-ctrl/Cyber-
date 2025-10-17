@@ -1,13 +1,13 @@
 {
   "licenses": [
     {
-      "key": "123456",
-      "device_id": "75546eae-42f3-4aca-8bac-863b4c7d2d56",
+      "key": "123",
+      "device_id": "5690f3a4-a2ae-4cb2-8093-182fb4329248",
       "expiry_date": "2026-12-06",
       "active": true,
       "status
       "created_date": "2024-01-01",
-      "max_devices": 1
+      "max_devices": 10
     },
     {
       "key": "alpha@123",
